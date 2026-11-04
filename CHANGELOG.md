@@ -6,6 +6,12 @@
 
 ### Other
 
+## 2.3.4
+
+### Other
+
+- pass-common: random password generator now won't generate passwords with consecutive characters
+
 ## 2.3.3
 
 ### Other
